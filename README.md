@@ -1,4 +1,3 @@
-
 # Customer Details Portal
 
 
@@ -83,4 +82,3 @@ npm install
 ```bash
 npm run dev
 ```
-

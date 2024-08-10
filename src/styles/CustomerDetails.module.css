@@ -1,0 +1,13 @@
+.customerDetails {
+  padding: 5% 15%;
+  background: #f9f9f9;
+  height: auto;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  text-align: center;
+}
+  
+  h2 {
+    margin-top: 0;
+  }
+  

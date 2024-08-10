@@ -1,0 +1,5 @@
+.customerList {
+  padding-right: 0;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}

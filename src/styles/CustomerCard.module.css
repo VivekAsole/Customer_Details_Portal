@@ -1,0 +1,12 @@
+.customerCard {
+    padding: 25px 20px;
+    border-bottom: 2px solid #ddd;
+    cursor: pointer;
+  }
+  
+  .customerCard.selected {
+    border-right: #000 solid;
+    background-color: #eeeeee;
+
+  }
+  
